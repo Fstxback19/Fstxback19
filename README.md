@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm a beginner back-end developer. My journey into IT began with the book "Object-Oriented Programming in C++" by Robert Lafore, where I mastered the basics of programming in C++. After a couple of months of practice, I decided to move forward, and my choice fell on the Python programming language! Since December 2023, I've been studying back-end development in Python. Currently, I'm actively learning Django, Bash, and computer networks.</p>
+<p align="left">I'm a beginner back-end developer. My journey into IT began with the book "Object-Oriented Programming in C++" by Robert Lafore, where I mastered the basics of programming in C++. After a couple of months of practice, I decided to move forward, and my choice fell on the Python programming language! Since December 2023, I've been studying back-end development in Python. Currently, I'm actively learning FastApi, Bash, and computer networks.</p>
 
 ###
 
